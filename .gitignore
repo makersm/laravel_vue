@@ -1,0 +1,11 @@
+/node_modules
+/public/hot
+/public/storage
+/vender
+/.idea
+/.vscode
+/.vagrant
+npm-debug.log
+.env
+composer.lock
+package-lock.json
